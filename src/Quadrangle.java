@@ -10,7 +10,7 @@ public class Quadrangle {
     public static void main(String[] args) throws IOException {
         ArrayList<Integer> arrayList = new ArrayList<>();
         try {
-            FileReader fileReader = new FileReader("new2.txt");
+            FileReader fileReader = new FileReader("new2.txt"); //
             Scanner sc = new Scanner(fileReader);
 
             while (sc.hasNextLine()) {
