@@ -11,6 +11,7 @@ public class Quadrangle {
         ArrayList<Integer> arrayList = new ArrayList<>();
         try {
             System.out.println("жопа");
+            System.out.println("жопа 2");
             FileReader fileReader = new FileReader("new2.txt"); //
             Scanner sc = new Scanner(fileReader);
 
